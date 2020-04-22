@@ -1,3 +1,6 @@
+mullangi venkata reddy
+
+
 EFEimport java.util.Scanner;
 RGRRGRGRTG
 class CheckEvenOdd
