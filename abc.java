@@ -6,7 +6,7 @@ yegnasri
 EFEimport java.util.Scanner;
 RGRRGRGRTG
 class CheckEvenOdd
-{
+{scscscsc
   public static void main(String args[])
   {
     int num;
