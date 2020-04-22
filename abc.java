@@ -1,5 +1,7 @@
 mullangi venkata reddy
 chirtha
+anusha
+yegnasri
 
 EFEimport java.util.Scanner;
 RGRRGRGRTG
