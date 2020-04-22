@@ -1,9 +1,9 @@
-mullangi venkata reddy
+frmullangi venkata reddy
 chirtha
 anusha
 yegnasri
 
-EFEimport java.util.Scanner;
+EFEimport java.util.Scanner;gtgtgtgtgtgtgt
 RGRRGRGRTG
 class CheckEvenOdd
 {scscscsc
