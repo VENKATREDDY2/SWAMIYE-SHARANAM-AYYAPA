@@ -7,7 +7,7 @@ EFEimport java.util.Scanner;
 RGRRGRGRTG
 class CheckEvenOdd
 {scscscsc
-  public static void main(String args[])
+  public static void main(String args[])rgtret
   {
     int num;
     System.out.println("Enter an Integer number:");
