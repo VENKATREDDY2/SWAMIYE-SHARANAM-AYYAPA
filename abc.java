@@ -1,5 +1,5 @@
-import java.util.Scanner;
-
+EFEimport java.util.Scanner;
+RGRRGRGRTG
 class CheckEvenOdd
 {
   public static void main(String args[])
